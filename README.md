@@ -25,11 +25,18 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 **Instructions:**
 1. Download the dataset from the above link.
-2. Extract the ZIP file.
+2. Extract the downloaded ZIP file.
 3. Place `Fake.csv` and `True.csv` in the same folder as `fake_news_detection.py`.
 4. Run the program.
 
-> **Note:** The dataset is not included in this repository because it is downloaded separately from Kaggle.
+> **Note:** The dataset is not included in this repository. Please download it from Kaggle before running the project.
+
+## Requirements
+Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Author
 Harshitha A.P
